@@ -1,4 +1,4 @@
-# 📊 Dashboard Planeación Panovo - Power BI
+# 📊 Dashboard Estadístico Calidad Panovo - Power BI
 
 Este repositorio contiene un ejemplo real de implementación de una solución en SharePoint orientada al control y análisis de materias primas en el área de Calidad. 
 

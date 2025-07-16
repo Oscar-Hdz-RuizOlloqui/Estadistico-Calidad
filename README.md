@@ -22,20 +22,17 @@ Desarrollar un tablero en Power BI que permita visualizar y dar seguimiento a la
 ## 📁 Estructura del Repositorio
 
 ```plaintext
-PowerBI-OEE-Coflex/
+Estadistico-Calidad/
 ├── pbix/                                   → Archivo PBIX del tablero
+├── README.md                               → Descripción general del repositorio
 ├── docs/
-│   ├── README.md                           → Descripción general del repositorio
-│   ├── Medidas.md                          → Medidas DAX documentadas
-│   ├── Columnas_Calculadas.md              → DAX documentadas
-│   ├── Tablas_Catalogo.md                   → DAX documentadas
-│   ├── Instructivo Dashboard OEE.docx      → Guía de uso del dashboard
-├── sql/ 
-│   └── consulta_fuente_OEE.sql             → Consulta SQL base
+│   ├── MedidasDAX.md                          → Medidas DAX documentadas
+│   ├── ColumnasCalculadas.md              → DAX documentadas
+│   ├── Tablas_Dax.md                   → DAX documentadas
+│   └── Instructivo Dashboard OEE.docx      → Guía de uso del dashboard
 ├── img/
 │   ├── preview_dashboard.png               → Captura del dashboard
-│   └── modelo_datos.png                    → Relación entre tablas
-└── LICENSE                                 → MIT (u otra que se defina)
+│   └── Modelo_Datos.png                    → Relación entre tablas
 ```
 
 ---
@@ -54,7 +51,3 @@ PowerBI-OEE-Coflex/
 4. Revisa la documentación en `/docs` para entender cada fórmula y estructura.
 
 ---
-
-## 📄 Licencia
-
-MIT – Libre uso con atribución.
